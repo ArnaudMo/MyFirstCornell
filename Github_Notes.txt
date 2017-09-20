@@ -13,4 +13,7 @@ Conflicts change.
 Are there changes?
 Here is sthg new. You can change the conflitct and confirm merge.
 
-This is a better format.
+This is a better format.This is a better format.
+Hello world!
+
+
