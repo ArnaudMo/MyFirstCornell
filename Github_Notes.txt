@@ -17,3 +17,5 @@ Are there changes?
 
 Here is sthg new. You can change the conflitct and confirm merge.
 
+Hello world!
+
