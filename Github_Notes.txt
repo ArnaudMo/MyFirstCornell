@@ -9,4 +9,6 @@ Every Commmit should have a summary message to remind the team what you changed.
 
 Does it work????
 
-Only when you change it shows
+Only when you change it shows.
+
+Conflicts change.
