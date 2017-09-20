@@ -1,7 +1,7 @@
 Repository have branches
 
 Main branch unaffected if work is ongoing
-Modififed - Staging – committed - 
+Modififed - Staging â€“ committed - 
 
 + is a short hand for addition.
 
@@ -16,3 +16,4 @@ Conflicts change.
 Are there changes?
 
 Here is sthg new. You can change the conflitct and confirm merge.
+
