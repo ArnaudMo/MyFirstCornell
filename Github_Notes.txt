@@ -1,0 +1,10 @@
+Repository have branches
+
+Main branch unaffected if work is ongoing
+Modififed - Staging – committed - 
+
++ is a short hand for addition.
+
+Every Commmit should have a summary message to remind the team what you changed.
+
+Does it work????
