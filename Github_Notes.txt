@@ -15,4 +15,5 @@ Conflicts change.
 
 Are there changes?
 
-New change // Here is sthg new.
+Here is sthg new. You can change the conflitct and confirm merge.
+
