@@ -15,4 +15,4 @@ Conflicts change.
 
 Are there changes?
 
-Here is sthg new.
+Here is sthg new. You can change the conflitct and confirm merge.
